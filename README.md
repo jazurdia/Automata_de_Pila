@@ -63,14 +63,6 @@ La cadena '00011' no es aceptada por el autómata.
 La cadena '11' no es aceptada por el autómata.
 ```
 
-## Contribuciones
+##
 
-Las contribuciones a este proyecto son bienvenidas. Si desea mejorar el autómata o extender su funcionalidad, por favor considere enviar un Pull Request con sus cambios.
-
-## Licencia
-
-Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE.md).
-
-## Contacto
-
-Si tiene alguna pregunta o comentario sobre este proyecto, no dude en abrir un issue en el repositorio de GitHub donde está alojado este proyecto.
+Este proyecto fue desarrollado como parte de un laboratorio de Teoría de la Computación en Universidad del Valle de Guatemala.
